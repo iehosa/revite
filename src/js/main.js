@@ -1,11 +1,11 @@
 /** @format */
 
-import "src/css/style.css";
+import "../../css/style.css";
 
 console.log("import");
 
 // import javascriptLogo from "public/javascript.svg";
-// import viteLogo from "/vite.svg";
+// import viteLogo from "public/vite.svg";
 // import { setupCounter } from "/counter.js";
 
 // document.querySelector("#app").innerHTML = `
