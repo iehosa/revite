@@ -1,3 +1,7 @@
 /** @format */
 
-@import "../scss/_index.scss";
+/* @import "../scss/_index.scss"; */
+
+body {
+  background-color: yellow;
+}
