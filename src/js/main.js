@@ -1,6 +1,5 @@
 /** @format */
 
-// import { consoLog } from "/counter.js";
 import { imCss } from "../components/cjs.js";
 
 // document.querySelector("#app").innerHTML = `
@@ -22,3 +21,5 @@ imCss();
 // console.log("success!");
 
 // // import "../css/style.css";
+
+// import { consoLog } from "/counter.js";
