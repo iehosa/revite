@@ -1,6 +1,6 @@
 /** @format */
 
-import { setupCounter } from "counter.js";
+import { setupCounter } from "./counter.js";
 
 document.querySelector("#app").innerHTML = `
   <div>
