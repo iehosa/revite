@@ -1,6 +1,6 @@
 /** @format */
 
-import { consoLog } from "./counter.js";
+import { consoLog } from "/counter.js";
 
 // document.querySelector("#app").innerHTML = `
 //   <div>
