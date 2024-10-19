@@ -26,4 +26,4 @@ setupCounter(document.querySelector("#counter"));
 
 console.log("success!");
 
-// import "../../css/style.css";
+import "../css/style.css";
