@@ -11,6 +11,7 @@
 - css 에 scss import 못 읽는다.
 - config 은 vanilla 는 export default 만 가능하다.
 - js import 는 화면에 노출하는데 오래 걸린다. 2 commit 에 반응함.
+- html 은 즉각 변한다.
 
 ---
 
