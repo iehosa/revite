@@ -1,7 +1,7 @@
 /** @format */
 
 import { consoLog } from "/counter.js";
-import { imCss } from "../css/cjs.js";
+import { imCss } from "../components/cjs.js";
 
 // document.querySelector("#app").innerHTML = `
 //   <div>
