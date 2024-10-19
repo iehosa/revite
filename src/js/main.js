@@ -1,6 +1,6 @@
 /** @format */
 
-import { consoLog } from "/counter.js";
+// import { consoLog } from "/counter.js";
 import { imCss } from "../components/cjs.js";
 
 // document.querySelector("#app").innerHTML = `
@@ -17,7 +17,7 @@ import { imCss } from "../components/cjs.js";
 
 // setupCounter(document.querySelector("#counter"));
 
-consoLog();
+// consoLog();
 imCss();
 // console.log("success!");
 
