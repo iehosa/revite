@@ -1,2 +1,5 @@
 /** @format */
-console.log("now");
+
+import "../css/style.css";
+
+console.log("import");
