@@ -2,7 +2,6 @@
 
 @import "../scss/index.scss";
 
-/* body {
-    background-color: yellow;
-
-  } */
+body {
+  background-color: yellow;
+}
