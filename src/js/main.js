@@ -18,7 +18,7 @@ import { imCss } from "../components/cjs.js";
 
 // consoLog();
 imCss();
-// console.log("success!");
+console.log("i'm main");
 
 // // import "../css/style.css";
 
